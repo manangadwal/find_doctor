@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "222909096405",
+    "project_id": "doctor-a09ca",
+    "storage_bucket": "doctor-a09ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222909096405:android:a8313c0e6c9efe75c71d5c",
+        "android_client_info": {
+          "package_name": "com.example.find_doctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222909096405-kcjif1nkn5getgoptgitgalo6mcl8h8c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.find_doctor",
+            "certificate_hash": "69ba4bb359c81581885db60b9d1a0d830bce0ab6"
+          }
+        },
+        {
+          "client_id": "222909096405-eim3opv2njmnudque7dr5hr4061oihgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMIdMYp9KIPpQIVkLAVTNkoGxloUWH6gM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222909096405-eim3opv2njmnudque7dr5hr4061oihgk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
